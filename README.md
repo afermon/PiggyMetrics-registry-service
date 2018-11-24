@@ -1,6 +1,6 @@
 # Piggy Metrics (Kubernetes) - Service discovery
 
-[![CircleCI](https://circleci.com/gh/afermon/PiggyMetrics-registry-service.svg?style=svg)](https://circleci.com/gh/afermon/PiggyMetrics-registry-service) [![codecov](https://codecov.io/gh/afermon/PiggyMetrics-registry-service/branch/master/graph/badge.svg)](https://codecov.io/gh/afermon/PiggyMetrics-registry-service) [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/afermon/PiggyMetrics-registry-service/blob/master/LICENCE)
+[![CircleCI](https://circleci.com/gh/afermon/PiggyMetrics-registry-service.svg?style=svg)](https://circleci.com/gh/afermon/PiggyMetrics-registry-service)  [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/afermon/PiggyMetrics-registry-service/blob/master/LICENCE)
 
 Another commonly known architecture pattern is Service discovery. It allows automatic detection of network locations for service instances, which could have dynamically assigned addresses because of auto-scaling, failures and upgrades.
 
@@ -21,5 +21,6 @@ Also, Eureka provides a simple interface, where you can track running services a
 
 For more information please refer to the main repository [afermon/PiggyMetrics-Kubernetes](https://github.com/afermon/PiggyMetrics-Kubernetes)
 
-## Refereces
+## Credits
+
 * Forked from [sqshq/PiggyMetrics](https://github.com/sqshq/PiggyMetrics)
